@@ -1,0 +1,4 @@
+# to ignore all exe files
+# * is a place holder
+#will search for this phrase int he file name
+*.exe
